@@ -1,0 +1,16 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: MICS6814_V1_RA.PcbDoc   03/11/2020  04:57:24 p. m.
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII Plated RoundHoles File : MICS6814_V1_RA-Plated.TXT
+EIA File   : MICS6814_V1_RA.DRL
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        31.5mil (0.8001mm)       Round          8                1.09 Inch (27.74 mm)
+T2        36mil (0.9144mm)         Round          5                0.40 Inch (10.16 mm)
+---------------------------------------------------------------------------
+Totals                                            13               1.49 Inch (37.90 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00

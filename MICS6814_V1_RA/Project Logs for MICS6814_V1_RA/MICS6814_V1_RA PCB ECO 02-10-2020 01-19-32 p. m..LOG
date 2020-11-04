@@ -1,0 +1,50 @@
+Added Component: Designator=C1(C0402)
+Added Component: Designator=C2(C0402)
+Added Component: Designator=P1(HEAD5-NOSS)
+Added Component: Designator=R1(0402_RES)
+Added Component: Designator=R2(0402_RES)
+Added Component: Designator=R3(0402_RES)
+Added Component: Designator=R4(0402_RES)
+Added Component: Designator=R5(0402_RES)
+Added Component: Designator=R6(0402_RES)
+Added Component: Designator=U1(SGX_Sensortech_MiCS-6814_0)
+Added Pin To Net: NetName=CO Pin=P1-1
+Added Pin To Net: NetName=CO Pin=R2-1
+Added Pin To Net: NetName=CO Pin=U1-H
+Added Net: Name=CO
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=P1-4
+Added Pin To Net: NetName=GND Pin=U1-B
+Added Pin To Net: NetName=GND Pin=U1-F
+Added Pin To Net: NetName=GND Pin=U1-J
+Added Net: Name=GND
+Added Pin To Net: NetName=N02 Pin=P1-3
+Added Pin To Net: NetName=N02 Pin=R3-1
+Added Pin To Net: NetName=N02 Pin=U1-A
+Added Net: Name=N02
+Added Pin To Net: NetName=NetR4_1 Pin=R4-1
+Added Pin To Net: NetName=NetR4_1 Pin=U1-E
+Added Pin To Net: NetName=NetR4_1 Pin=U1-G
+Added Net: Name=NetR4_1
+Added Pin To Net: NetName=NetR5_2 Pin=R5-2
+Added Pin To Net: NetName=NetR5_2 Pin=U1-C
+Added Net: Name=NetR5_2
+Added Pin To Net: NetName=NetR6_2 Pin=R6-2
+Added Pin To Net: NetName=NetR6_2 Pin=U1-K
+Added Net: Name=NetR6_2
+Added Pin To Net: NetName=NH3 Pin=P1-2
+Added Pin To Net: NetName=NH3 Pin=R1-1
+Added Pin To Net: NetName=NH3 Pin=U1-D
+Added Net: Name=NH3
+Added Pin To Net: NetName=VCC Pin=C1-1
+Added Pin To Net: NetName=VCC Pin=C2-1
+Added Pin To Net: NetName=VCC Pin=P1-5
+Added Pin To Net: NetName=VCC Pin=R1-2
+Added Pin To Net: NetName=VCC Pin=R2-2
+Added Pin To Net: NetName=VCC Pin=R3-2
+Added Pin To Net: NetName=VCC Pin=R4-2
+Added Pin To Net: NetName=VCC Pin=R5-1
+Added Pin To Net: NetName=VCC Pin=R6-1
+Added Net: Name=VCC
+Added Class: Name=MICS6814_V1_RA
